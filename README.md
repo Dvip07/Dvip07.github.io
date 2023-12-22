@@ -24,7 +24,7 @@ A student portal is an online platform that provides students with centralized a
 
 The Department Portal is a centralized platform designed for efficient communication and collaboration within an academic department. It streamlines information sharing, providing quick access to announcements, schedules, and resources. Faculty and students can interact seamlessly, fostering a conducive environment for learning. Features include course updates, event calendars, and document repositories. The portal enhances departmental efficiency by digitizing administrative processes, such as class registrations and document submissions. With user-friendly interfaces and real-time updates, the Department Portal serves as a hub for academic engagement and facilitates a connected community.
 
-### [Project 2: Student Management System in iOS]
+### [Project 3: Student Management System in iOS]
 
 Our Student Data Management System is an ongoing project aimed at revolutionizing the way we handle student information. This comprehensive system is being meticulously developed to centralize and streamline student data, simplifying tasks such as enrollment, grading, and attendance tracking. The platform will offer a user-friendly interface for easy data entry and retrieval, ensuring accuracy and efficiency in managing student records. As a work in progress, we are committed to incorporating the latest technologies and security measures to protect sensitive information. Stay tuned for updates as we continue to enhance this system to meet the evolving needs of our educational institution.
 
